@@ -23,10 +23,7 @@ require("./bot.js")
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
-║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║                 ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
