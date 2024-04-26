@@ -1,6 +1,5 @@
 
 
-
 const { Client, GatewayIntentBits, Partials } = require("discord.js");
 const { DisTube } = require("distube");
 const { SpotifyPlugin } = require("@distube/spotify");
